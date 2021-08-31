@@ -1,0 +1,16 @@
+.deleteBut {
+    background: #F0E68C;
+    width: 40%;
+    height: 50px;
+    border-radius: 3px;
+    box-shadow: 0 -3px #BDB76B inset;
+    transition: 0.2s;
+    margin-right: 20px;
+    font-family: "Snell Roundhand", cursive;
+    color: #8B4513;
+}
+
+.deleteBut:hover {
+    background-color: rgba(240, 230, 140, 0.7);
+    box-shadow: 0 -3px rgba(240, 230, 140, 0.9) inset;
+}

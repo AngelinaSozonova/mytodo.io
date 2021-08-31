@@ -1,0 +1,10 @@
+@import url('./result.css');
+
+#text_result {
+    display: flex;
+    justify-content: left;
+    width: 80%;
+    margin: 10px;
+    color: #8B4513;
+    font-family: "Snell Roundhand", cursive;
+}

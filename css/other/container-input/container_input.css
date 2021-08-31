@@ -1,0 +1,8 @@
+@import url('./myButton.css');
+@import url('./muInput.css');
+
+.container_input {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+@import url('./deleteBut.css');
+@import url('./item.css');
+
+#myList {
+    display: inline-block;
+    margin: 0;
+    padding-left: 0;
+    width: 100%;
+}

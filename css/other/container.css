@@ -1,0 +1,16 @@
+@import url('./header/header.css');
+@import url('./container-input/container_input.css');
+@import url('./mylist/mylist.css');
+@import url('./result/text_result.css');
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FFFFE0;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    margin: 30px auto;
+    width: 60%;
+    height: 50%;
+}
